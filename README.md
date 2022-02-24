@@ -11,7 +11,7 @@
 
 [DEMO+signin]https://silly-keller-09c9bd.netlify.app)<br/>
 
-![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
+![Starbucks](https://github.com/ohtaekwon/starbucks/blob/master/_assets/main_screenshot.jpg?raw=true)
 
 ## 문자 인코딩(Character Encoding) 설정
 
@@ -45,11 +45,11 @@
 
 Slack -
 
-![Slack Open Graph example](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/slack_message_og_example.jpg)
+![Slack Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/slack_message_og_example.jpg?raw=true)
 
 KakaoTalk -
 
-![KakaoTalk Open Graph example](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/kakao_og_example.jpg)
+![KakaoTalk Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/kakao_og_example.jpg?raw=true)
 
 [더 많은 오픈 그래프 속성 보기](https://ogp.me/)
 
@@ -107,8 +107,8 @@ KakaoTalk -
 - `favicon.ico` 64 x 64 (px) 또는 32 x 32 또는 16 x 16
 - `favicon.png` 500 x 500 (px)
 
-<img src="https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/favicon.png" alt="Starbucks" width="16" />
-<img src="https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/favicon.png" alt="Starbucks" width="200" />
+<img src="https://github.com/ohtaekwon/starbucks/blob/master/images/starbucks_logo.png?raw=true" alt="Starbucks" width="16" />
+<img src="https://github.com/ohtaekwon/starbucks/blob/master/images/starbucks_logo.png?raw=true" alt="Starbucks" width="200" />
 
 ### .ico 파일 제작
 
