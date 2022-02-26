@@ -45,11 +45,11 @@
 
 Slack -
 
-![Slack Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/slack_message_og_example.jpg?raw=true)
+![Slack Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/slack_message_og_example.png?raw=true)
 
 KakaoTalk -
 
-![KakaoTalk Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/kakao_og_example.jpg?raw=true)
+![KakaoTalk Open Graph example](https://github.com/ohtaekwon/starbucks/blob/master/_assets/kakao_og_example.png?raw=true)
 
 [더 많은 오픈 그래프 속성 보기](https://ogp.me/)
 
